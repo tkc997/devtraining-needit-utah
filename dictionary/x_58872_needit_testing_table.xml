@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="099d19f7833312103c3775a6feaad3d7" label="testing_table" max_length="40" name="x_58872_needit_testing_table" type="collection">
+        <element default="1" label="ID" max_length="3" name="id" type="integer"/>
+        <element label="Value" max_length="40" name="value" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element default="true" label="State" max_length="40" name="state" type="boolean"/>
+    </element>
+</database>
